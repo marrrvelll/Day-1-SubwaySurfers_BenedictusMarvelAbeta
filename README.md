@@ -2,8 +2,7 @@
 
 Aplikasi web sederhana untuk membantu mahasiswa baru mencatat tugas dan tenggatnya. Dibuat sebagai tugas pada materi **"Building with AI, Managing Change with GitHub"** (Nugi Farhan).
 
-- **Nama:** (isi nama kamu)
-- **Link repository:** (isi URL repo GitHub kamu)
+- **Nama:** Benedictus Marvel Abeta
 
 ## Fitur
 
